@@ -1,0 +1,9 @@
+[
+  {
+    "id": "server-1",
+    "name": "ESXi host 1",
+    "host": "esxi-host-1.example.com",
+    "user": "your-esxi-username",
+    "pass": "replace-with-your-password"
+  }
+]
